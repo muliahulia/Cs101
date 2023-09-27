@@ -1,1 +1,1 @@
-# Cs101
+# Julia Smith - julia.s.smith@wsu.edu
